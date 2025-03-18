@@ -1,4 +1,4 @@
-# Important environment setting
+# Environment Setup
 ``` bash 
 conda create -n dual_cam python=3.8
 module load cuda/11.8
