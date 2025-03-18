@@ -18,3 +18,7 @@ cython
 icecream
 open3d
 timm
+plyfile
+pytorch3d
+lpips
+torchmetrics
